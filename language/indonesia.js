@@ -88,7 +88,7 @@ exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
 saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+lapor owner agar segera di perbaiki 🙏 , Untuk yg Ingin jadi bot silah kan Hubungi wa.me/6282143349069 Bisa Req SC dan Harga Hanya 15k sudah 1 paket Bisa juga pake SC Bot MD
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
