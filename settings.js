@@ -20,14 +20,14 @@ global.available = true //status online (online)
 // Other
 global.botname = "NIGHT BOTZ" //namabot kalian
 global.ownername= "NIGHT STORE×፝֟͜×" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
+global.myweb ="https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug" //bebas asal jan hapus
 global.github = "https://hilmiganzbot12/github.co./" //bebas
 global.email = "faizulhilmi991@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "622143440025" // nomor wa kalian
 global.ownernomerr = "+6283876969731" //nmr wa kalian
-global.thumbnail = "./image/thumb.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/nigh.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/TM.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283876969731","6282143440025","6282143349069"] //ganti agar fitur owner bisa di gunakan
